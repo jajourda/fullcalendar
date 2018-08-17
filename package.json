@@ -78,7 +78,7 @@
     "webpack-stream": "^4.0.2",
     "yargs": "^4.8.1"
   },
-  "main": "dist/fullcalendar.js",
+  "main": "dist/gcal.js",
   "types": "dist/fullcalendar.d.ts",
   "files": [
     "dist/*.js",
